@@ -1,6 +1,6 @@
-'use client';
-import Image from 'next/image';
+"use client";
 import Link from 'next/link';
+import Image from 'next/image';
 
 const WA = 'https://wa.me/8764465110?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
 
@@ -75,6 +75,7 @@ export default function Footer() {
             </h4>
             <ul style={{ listStyle:'none', padding:0, margin:0, display:'flex',
               flexDirection:'column', gap:'12px' }}>
+              <li></li>
               {quickLinks.map(l => (
                 <li key={l.label}>
                   <button className="ft-link"
@@ -190,6 +191,10 @@ export default function Footer() {
             © {year} Bet Vault. All rights reserved.
           </p>
           <div style={{ display:'flex', justifyContent:'center', flexWrap:'wrap', gap:'18px' }}>
+            <a href="/sitemap.xml" target="_blank" rel="noopener noreferrer" className="ft-legal">Sitemap</a>
+            <span style={{ color: '#3B3850' }}>·</span>
+            <a href="/robots.txt" target="_blank" rel="noopener noreferrer" className="ft-legal">Robots.txt</a>
+            <span style={{ color: '#3B3850' }}>·</span>
             {['Privacy Policy','Terms & Conditions','Responsible Gaming'].map(l => (
               <a key={l} href={WA} target="_blank" rel="noopener noreferrer" className="ft-legal">{l}</a>
             ))}

@@ -1,7 +1,7 @@
 'use client';
 import { useState } from 'react';
 
-const WA = 'https://wa.me/8764465110?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
+const WA = 'https://wa.me/918764465110?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
 
 const faqs = [
   { q:'Is it legal to get a cricket betting ID in India?', a:'Betting laws in India vary from state to state and the situation is genuinely complicated. Many platforms operate under international licences and serve millions of Indian users. That said, we always recommend checking the specific rules in your state and betting responsibly within your means.' },

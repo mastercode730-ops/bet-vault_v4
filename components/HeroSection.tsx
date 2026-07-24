@@ -1,6 +1,6 @@
 'use client';
 
-const WA = 'https://wa.me/8764465110?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
+const WA = 'https://wa.me/918764465110?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
 
 const tickers = [
   '🏏 Live Cricket Betting', '⚡ ID Ready in 5 Minutes', '🔐 Bank-Level Encryption',

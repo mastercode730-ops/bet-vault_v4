@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
 
-const WA = 'https://wa.me/8764465110?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
+const WA = 'https://wa.me/918764465110?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
 
 const navLinks = [
   { label: 'Home',       href: '#hero'         },
@@ -99,7 +99,7 @@ export default function Navbar() {
             <a href={WA} target="_blank" rel="noopener noreferrer" className="btn-wa"
               style={{ padding:'9px 18px', borderRadius:'6px', fontSize:'13px', fontWeight:700 }}>
               <WaIcon size={15} />
-              <span className="hide-mob">WhatsApp Us</span>
+              <span>+91 87644 65110</span>
             </a>
 
             {/* Hamburger */}
@@ -128,7 +128,7 @@ export default function Navbar() {
             <div style={{ padding:'14px 20px' }}>
               <a href={WA} target="_blank" rel="noopener noreferrer" className="btn-wa"
                 style={{ width:'100%', justifyContent:'center', padding:'14px', borderRadius:'6px', fontSize:'14px' }}>
-                <WaIcon size={18} /> WhatsApp Us — Fast Reply
+                <WaIcon size={18} /> WhatsApp +91 87644 65110
               </a>
             </div>
           </div>

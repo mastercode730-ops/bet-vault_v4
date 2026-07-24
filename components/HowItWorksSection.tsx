@@ -1,4 +1,4 @@
-const WA = 'https://wa.me/8764465110?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
+const WA = 'https://wa.me/918764465110?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
 
 const steps = [
   { n:'01', icon:'💬', title:'Message Us on WhatsApp', desc:'Send us a quick hello. No forms to fill, no queues to wait in — just a direct message and our team picks it up almost instantly.' },

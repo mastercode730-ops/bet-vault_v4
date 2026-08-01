@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     apple: '/apple-icon.png',
   },
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://betvaultbetting.com'),
-  title: 'Bet Vault — India\'s Premium Cricket Betting ID Service',
+  title: "BetVault | Online Cricket Betting, Sports Betting & Casino"s Premium Cricket Betting ID Service',
   description: 'Get your cricket betting ID set up in under 5 minutes. Trusted by 3 million+ Indian bettors. Instant WhatsApp setup, secure payments, 24/7 support.',
   keywords: 'cricket betting id, online betting india, ipl betting, cricket id provider, bet vault, betting id whatsapp',
 };

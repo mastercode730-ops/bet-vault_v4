@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-const WA = 'https://wa.me/918764465110?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
+const WA = 'https://wa.me/918360750829?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
 
 export default function AboutSection() {
   return (

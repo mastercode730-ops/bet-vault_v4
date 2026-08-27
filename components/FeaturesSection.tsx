@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-const WA = 'https://wa.me/918764465110?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
+const WA = 'https://wa.me/918360750829?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
 
 const features = [
   { img:'/trusted_platform.png', title:'100% Trusted',  desc:'Every account goes through strict security checks. We have been doing this since 2023 and our track record speaks clearly.' },

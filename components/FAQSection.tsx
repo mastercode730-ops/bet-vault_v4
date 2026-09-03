@@ -4,16 +4,16 @@ import { useState } from 'react';
 const WA = 'https://wa.me/918360750829?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
 
 const faqs = [
-  { q:'Is it legal to get a cricket betting ID in India?', a:'Betting laws in India vary from state to state and the situation is genuinely complicated. Many platforms operate under international licences and serve millions of Indian users. That said, we always recommend checking the specific rules in your state and betting responsibly within your means.' },
-  { q:'How long does it actually take to get my ID?', a:'In most cases, your ID is created, verified and delivered to your WhatsApp within 5 to 10 minutes of reaching out to us. We built the entire setup process around speed — no waiting around, no queues, no unnecessary delays.' },
-  { q:'Can one Bet Vault ID work across multiple platforms?', a:'Yes. Depending on your setup, your ID can give you access to multiple partner platforms — which means more markets, better odds, and more flexibility without having to manage entirely separate accounts.' },
-  { q:'Are my deposits and withdrawals actually safe?', a:'Completely. We only work with platforms that use bank-level encryption and trusted payment gateways. Deposits reach your account almost instantly, and withdrawals are processed properly — no games, no unexplained holds.' },
-  { q:'Which tournaments and sports can I bet on?', a:'Pretty much everything that matters — IPL, T20 World Cup, ODI series, Test cricket, Big Bash, The Ashes, football, tennis, basketball, and more. If a major event is happening, there is a very good chance you can bet on it.' },
-  { q:'How do I get my account set up?', a:'Just send us a message on WhatsApp. Share your name and a couple of basic details and we handle the rest. No lengthy sign-up form, no document uploads, no waiting for approval emails.' },
-  { q:'What payment methods do you support?', a:'UPI, Net Banking, Paytm, PhonePe, Google Pay, and most major Indian wallets. Deposits go through almost instantly. Withdrawals are processed efficiently once your account is verified.' },
-  { q:'What if I get locked out of my account?', a:'Message us on WhatsApp and we will sort it out quickly. Account recovery usually takes just a few minutes — we verify your identity and get you back in without any unnecessary hassle.' },
-  { q:'Is my personal information kept safe?', a:'Yes. We use encrypted connections, secure payment rails, and strict data practices. Your personal information is never shared with any third parties and every interaction with our team is completely confidential.' },
-  { q:'How do I reach your team if I need help?', a:'WhatsApp, 24 hours a day, 7 days a week. You will get a reply from a real person — not a bot — who will actually help you resolve whatever the issue is, not just send you a copy-paste response.' },
+  { q: "What is BetVault?", a: "BetVault is the brand or website referenced on this domain. Check the site's current pages and terms for the latest information." },
+  { q: "How does a BetVault ID work?", a: "An account ID is generally used to identify a user account. Refer to BetVault's current account instructions and terms for the exact process." },
+  { q: "How can I access BetVault?", a: "Use the site's current official URL and verify the domain before entering any account information. Follow the access instructions published on the site." },
+  { q: "What sports are available on BetVault?", a: "Available sports can change. Check the current sports or betting section on the website for the latest list and availability." },
+  { q: "Does BetVault provide live sports information?", a: "Check the site's current sports section for any live-event information and the terms that apply to its use." },
+  { q: "How can I get help with my BetVault account?", a: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts." },
+  { q: "How do I find BetVault login information?", a: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel." },
+  { q: "What payment options are supported?", a: "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts." },
+  { q: "What should I do if I have trouble accessing my account?", a: "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel." },
+  { q: "Where can I find the latest BetVault updates?", a: "Refer to BetVault's current website information and terms for the most accurate answer." }
 ];
 
 export default function FAQSection() {

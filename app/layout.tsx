@@ -8,9 +8,9 @@ export const metadata: Metadata = {
     apple: '/apple-icon.png',
   },
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://betvaultbetting.com'),
-  title: "BetVault Online | Cricket & Sports Betting Information",
-  description: "Explore BetVault information, cricket and sports betting resources, account guidance, casino information, and frequently asked questions.",
-  keywords: 'cricket betting id, online betting india, ipl betting, cricket id provider, bet vault, betting id whatsapp',
+  title: "BetVault Online | Cricket & Sports Gaming Information",
+  description: "Explore BetVault information, cricket and sports Gaming resources, account guidance, casino information, and frequently asked questions.",
+  keywords: 'cricket Gaming id, online Gaming india, ipl Gaming, cricket id provider, bet vault, Gaming id whatsapp',
   verification: {
     google: '9f7DbDPk6IOkQ9j3P9C5bEYnr0gnkIGz28aw3tdcu00',
   },
@@ -46,8 +46,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       "@type": "WebPage",
       "@id": "http://betvaultbetting.com/#webpage",
       "url": "http://betvaultbetting.com/",
-      "name": "BetVault Online | Cricket & Sports Betting Information",
-      "description": "Explore BetVault information, cricket and sports betting resources, account guidance, casino information, and frequently asked questions.",
+      "name": "BetVault Online | Cricket & Sports Gaming Information",
+      "description": "Explore BetVault information, cricket and sports Gaming resources, account guidance, casino information, and frequently asked questions.",
       "isPartOf": {
         "@id": "http://betvaultbetting.com/#website"
       }
@@ -86,7 +86,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           "name": "What sports are available on BetVault?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Available sports can change. Check the current sports or betting section on the website for the latest list and availability."
+            "text": "Available sports can change. Check the current sports or Gaming section on the website for the latest list and availability."
           }
         },
         {

@@ -5,7 +5,7 @@ const WA = 'https://wa.me/918360750829?text=Hi%20Bet%20Vault%2C%20I%20need%20mor
 const features = [
   { img:'/trusted_platform.png', title:'100% Trusted',  desc:'Every account goes through strict security checks. We have been doing this since 2023 and our track record speaks clearly.' },
   { img:'/users_milestone.png',  title:'3 Million+ Users', desc:'Over three million Indian bettors have chosen Bet Vault. That number keeps growing because we deliver on what we promise.' },
-  { img:'/instant_id.png',       title:'ID in Minutes',    desc:'No paperwork, no waiting days. Your betting ID is created, verified and sent to your WhatsApp within minutes of reaching out.' },
+  { img:'/instant_id.png',       title:'ID in Minutes',    desc:'No paperwork, no waiting days. Your Gaming ID is created, verified and sent to your WhatsApp within minutes of reaching out.' },
   { img:'/support_247.png',      title:'24/7 Real Support', desc:'Message us any time of day or night and get a reply from an actual person — not a bot — who can genuinely sort things out.' },
   { img:'/secure_payments.png',  title:'Secure Payments',   desc:'Every payment moves through encrypted, bank-grade rails. UPI, Net Banking, all the major Indian wallets — your money is safe.' },
   { img:'/bonus_offers.png',     title:'Exclusive Bonuses', desc:'Start with a welcome bonus that actually makes sense. More to bet with right from day one, no impossible conditions attached.' },

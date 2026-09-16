@@ -4,7 +4,7 @@ const steps = [
   { n:'01', icon:'💬', title:'Message Us on WhatsApp', desc:'Send us a quick hello. No forms to fill, no queues to wait in — just a direct message and our team picks it up almost instantly.' },
   { n:'02', icon:'📋', title:'Share a Few Basic Details', desc:'We need just a couple of things from you — your name, the platform you prefer, and your deposit amount. That is genuinely all.' },
   { n:'03', icon:'✅', title:'ID Created and Delivered', desc:'We handle the setup and verification. Your login credentials come straight to your WhatsApp, clean and ready to use.' },
-  { n:'04', icon:'🏏', title:'Start Betting and Winning', desc:'Fund your account with UPI, pick up your welcome bonus, and place your first bet. The action starts right here.' },
+  { n:'04', icon:'🏏', title:'Start Gaming and Winning', desc:'Fund your account with UPI, pick up your welcome bonus, and place your first bet. The action starts right here.' },
 ];
 
 export default function HowItWorksSection() {
@@ -18,7 +18,7 @@ export default function HowItWorksSection() {
           <h2 style={{ fontFamily:"'Playfair Display',serif", fontWeight:900,
             fontSize:'clamp(1.6rem,3.5vw,2.6rem)', color:'#F5F0E8', lineHeight:1.15,
             marginBottom:'14px', letterSpacing:'-0.01em' }}>
-            From Zero to <span className="crimson-text">Betting in Under 5 Minutes</span>
+            From Zero to <span className="crimson-text">Gaming in Under 5 Minutes</span>
           </h2>
           <p style={{ color:'#A09BB0', fontSize:'15px', maxWidth:'460px', margin:'0 auto',
             lineHeight:1.75, fontFamily:"'Manrope',sans-serif" }}>

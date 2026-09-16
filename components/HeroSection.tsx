@@ -3,9 +3,9 @@
 const WA = 'https://wa.me/918360750829?text=Hi%20Bet%20Vault%2C%20I%20need%20more%20information%20on%20this';
 
 const tickers = [
-  '🏏 Live Cricket Betting', '⚡ ID Ready in 5 Minutes', '🔐 Bank-Level Encryption',
+  '🏏 Live Cricket Gaming', '⚡ ID Ready in 5 Minutes', '🔐 Bank-Level Encryption',
   '💰 Same-Day Withdrawals', '🎰 Live Casino Games', '⚽ Football Markets', '🏀 Basketball',
-  '🎾 Tennis Betting', '🏆 IPL 2026 Action', '📱 24/7 WhatsApp Support',
+  '🎾 Tennis Gaming', '🏆 IPL 2026 Action', '📱 24/7 WhatsApp Support',
 ];
 
 export default function HeroSection() {
@@ -74,7 +74,7 @@ export default function HeroSection() {
                 boxShadow:'0 0 10px #10B981', flexShrink:0, animation:'blink 1.5s infinite' }} />
               <span style={{ color:'#E74C3C', fontSize:'11px', fontWeight:800, letterSpacing:'0.14em',
                 textTransform:'uppercase', fontFamily:"'Manrope',sans-serif" }}>
-                India&apos;s #1 Trusted Betting Platform
+                India&apos;s #1 Trusted Gaming Platform
               </span>
             </div>
 
@@ -103,7 +103,7 @@ export default function HeroSection() {
             {/* Subtext */}
             <p style={{ color:'#A09BB0', fontSize:'clamp(14px,2.5vw,17px)', lineHeight:1.75,
               marginBottom:'32px', maxWidth:'520px', fontFamily:"'Manrope',sans-serif" }}>
-              Get your verified cricket betting ID delivered straight to your WhatsApp in under 5 minutes.
+              Get your verified cricket Gaming ID delivered straight to your WhatsApp in under 5 minutes.
               Live markets, IPL action, instant payouts — managed by people who actually care.
             </p>
 
@@ -112,7 +112,7 @@ export default function HeroSection() {
               <a href={WA} target="_blank" rel="noopener noreferrer" className="btn-gold"
                 style={{ padding:'clamp(13px,2vw,17px) clamp(24px,3vw,36px)', borderRadius:'6px',
                   fontSize:'clamp(13px,2vw,15px)', textTransform:'uppercase', letterSpacing:'0.06em' }}>
-                <WaIcon /> Get My Betting ID
+                <WaIcon /> Get My Gaming ID
               </a>
               <a href={WA} target="_blank" rel="noopener noreferrer" className="btn-outline-gold"
                 style={{ padding:'clamp(13px,2vw,17px) clamp(20px,3vw,28px)', borderRadius:'6px',

@@ -8,7 +8,7 @@ export default function BlogSection() {
 
         {/* Header */}
         <div style={{ textAlign:'center', marginBottom:'60px' }}>
-          <span className="sec-tag">Betting Knowledge Hub</span>
+          <span className="sec-tag">Gaming Knowledge Hub</span>
           <h2 style={{ fontFamily:"'Playfair Display',serif", fontWeight:900,
             fontSize:'clamp(1.6rem,3.5vw,2.6rem)', color:'#F5F0E8', lineHeight:1.15,
             marginBottom:'14px', letterSpacing:'-0.01em' }}>

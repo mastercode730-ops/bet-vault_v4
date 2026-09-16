@@ -14,10 +14,10 @@ const quickLinks = [
 ];
 
 const blogLinks = [
-  { label:'IPL Betting Guide 2026',     href:'/blog/ipl-betting-guide-2026'               },
-  { label:'Choosing a Safe Platform',   href:'/blog/how-to-choose-safe-betting-platform'   },
-  { label:'Top Betting Strategies',     href:'/blog/cricket-betting-strategies-that-work'  },
-  { label:'Understanding Betting Odds', href:'/blog/understanding-betting-odds'            },
+  { label:'IPL Gaming Guide 2026',     href:'/blog/ipl-gaming-guide-2026'               },
+  { label:'Choosing a Safe Platform',   href:'/blog/how-to-choose-safe-gaming-platform'   },
+  { label:'Top Gaming Strategies',     href:'/blog/cricket-gaming-strategies-that-work'  },
+  { label:'Understanding Gaming Odds', href:'/blog/understanding-gaming-odds'            },
 ];
 
 export default function Footer() {
@@ -57,7 +57,7 @@ export default function Footer() {
             </div>
             <p style={{ color:'#6B6880', fontSize:'14px', lineHeight:1.8, maxWidth:'320px',
               marginBottom:'22px', fontFamily:"'Manrope',sans-serif" }}>
-              India&apos;s go-to service for getting a cricket betting ID quickly and safely. Fast setup, 
+              India&apos;s go-to service for getting a cricket Gaming ID quickly and safely. Fast setup, 
               real support, and a team that genuinely cares about your experience.
             </p>
             <a href={WA} target="_blank" rel="noopener noreferrer" className="btn-wa"
@@ -173,7 +173,7 @@ export default function Footer() {
           <p style={{ color:'#A09BB0', fontSize:'12px', lineHeight:1.75, margin:0,
             fontFamily:"'Manrope',sans-serif" }}>
             <strong style={{ color:'#D4AF37' }}>Responsible Gambling: </strong>
-            Betting is for entertainment only. Always gamble within your means. Must be 18+ to use this platform. Please check local laws before participating.
+            Gaming is for entertainment only. Always gamble within your means. Must be 18+ to use this platform. Please check local laws before participating.
           </p>
         </div>
 

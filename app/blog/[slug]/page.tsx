@@ -54,7 +54,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               background:'linear-gradient(135deg,#D4AF37,#B8960C)', color:'#080810',
               textDecoration:'none', display:'inline-flex', alignItems:'center', gap:'8px',
               fontFamily:"'Manrope',sans-serif" }}>
-            Get My Betting ID
+            Get My Gaming ID
           </a>
         </div>
         {/* Gold accent line */}
@@ -148,18 +148,18 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               <div style={{ position:'relative', zIndex:1 }}>
                 <h3 style={{ fontFamily:"'Playfair Display',serif", fontWeight:800, fontSize:'22px',
                   color:'#F5F0E8', marginBottom:'12px' }}>
-                  Ready to Start Betting?
+                  Ready to Start Gaming?
                 </h3>
                 <p style={{ color:'#A09BB0', fontSize:'15px', lineHeight:1.75, marginBottom:'24px',
                   fontFamily:"'Manrope',sans-serif" }}>
-                  Get your Bet Vault cricket betting ID set up in minutes — just send us a message on WhatsApp and we handle the rest.
+                  Get your Bet Vault cricket gaming ID set up in minutes — just send us a message on WhatsApp and we handle the rest.
                 </p>
                 <a href={WA} target="_blank" rel="noopener noreferrer"
                   style={{ padding:'14px 32px', borderRadius:'6px', fontSize:'14px', fontWeight:800,
                     background:'linear-gradient(135deg,#D4AF37,#B8960C)', color:'#080810',
                     textDecoration:'none', display:'inline-flex', alignItems:'center', gap:'8px',
                     textTransform:'uppercase', letterSpacing:'0.06em', fontFamily:"'Manrope',sans-serif" }}>
-                  <WaIcon /> Get My Betting ID Now
+                  <WaIcon /> Get My Gaming ID Now
                 </a>
               </div>
             </div>

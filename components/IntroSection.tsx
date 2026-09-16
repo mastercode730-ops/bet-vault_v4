@@ -17,7 +17,7 @@ export default function IntroSection() {
               fontSize:'clamp(1.9rem,4.5vw,3.2rem)', lineHeight:1.1,
               color:'#F5F0E8', marginBottom:'24px', letterSpacing:'-0.01em',
             }}>
-              Your <span className="gold-text">Cricket Betting ID</span>{' '}
+              Your <span className="gold-text">Cricket Gaming ID</span>{' '}
               — Set Up in Minutes, Not Days
             </h2>
             <p style={{ color:'#A09BB0', fontSize:'16px', lineHeight:1.8, marginBottom:'16px',

@@ -83,7 +83,7 @@ export default function SportsSection() {
             <a href={WA} target="_blank" rel="noopener noreferrer" className="btn-gold"
               style={{ padding:'15px 36px', borderRadius:'6px', fontSize:'15px',
                 fontWeight:800, textTransform:'uppercase', letterSpacing:'0.05em' }}>
-              <WaIcon /> Claim My Betting ID
+              <WaIcon /> Claim My Gaming ID
             </a>
           </div>
         </div>
